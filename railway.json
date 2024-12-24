@@ -1,0 +1,9 @@
+{
+  "name": "project-name",
+  "plugins": [
+    {
+      "name": "node",
+      "type": "nodejs"
+    }
+  ]
+}
